@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Homepage -->
+  <url>
+    <loc>https://rajagames7.in/</loc>
+    <lastmod>2025-05-11</lastmod>
+    <priority>1.0</priority>
+    <changefreq>daily</changefreq>
+  </url>
+
+  <!-- FAQ Page -->
+  <url>
+    <loc>https://rajagames7.in/faq</loc>
+    <lastmod>2025-05-11</lastmod>
+    <priority>0.8</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+
+   <!-- About Page -->
+  <url>
+    <loc>https://rajagames7.in/about</loc>
+    <lastmod>2025-05-11</lastmod>
+    <priority>0.8</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+
+  
+
+  <!-- Blog Articles -->
+  <url>
+    <loc>https://rajagames7.in/blogs/color-prediction-strategies</loc>
+    <lastmod>2025-05-11</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  
+  <url>
+    <loc>https://rajagames7.in/blogs/what-is-raja-games</loc>
+    <lastmod>2025-05-11</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://rajagames7.in/blogs/how-to-install</loc>
+    <lastmod>2025-05-11</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://rajagames7.in/blogs/how-to-register</loc>
+    <lastmod>2025-05-11</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://rajagames7.in/blogs/how-to-withdraw</loc>
+    <lastmod>2025-05-11</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://rajagames7.in/blogs/monthly-offers-promos</loc>
+    <lastmod>2025-05-11</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://rajagames7.in/blogs/raja-games-agent-benefits</loc>
+    <lastmod>2025-05-11</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://rajagames7.in/blogs/raja-games-bonuses</loc>
+    <lastmod>2025-05-11</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://rajagames7.in/blogs/refer-and-earn</loc>
+    <lastmod>2025-05-11</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://rajagames7.in/blogs/vip-bonus-guide</loc>
+    <lastmod>2025-05-11</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://rajagames7.in/blogs/color-trading-guide</loc>
+    <lastmod>2025-05-11</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <!-- Legal Page -->
+  <url>
+    <loc>https://rajagames7.in/legal.html</loc>
+    <lastmod>2025-05-11</lastmod>
+    <priority>0.3</priority>
+    <changefreq>yearly</changefreq>
+  </url>
+
+</urlset>
